@@ -1,0 +1,6 @@
+C:\Users\Fábio Costa\source\repos\Enum_Testes\Enum_Testes\bin\Debug\Enum_Testes.exe.config
+C:\Users\Fábio Costa\source\repos\Enum_Testes\Enum_Testes\bin\Debug\Enum_Testes.exe
+C:\Users\Fábio Costa\source\repos\Enum_Testes\Enum_Testes\bin\Debug\Enum_Testes.pdb
+C:\Users\Fábio Costa\source\repos\Enum_Testes\Enum_Testes\obj\Debug\Enum_Testes.csprojAssemblyReference.cache
+C:\Users\Fábio Costa\source\repos\Enum_Testes\Enum_Testes\obj\Debug\Enum_Testes.exe
+C:\Users\Fábio Costa\source\repos\Enum_Testes\Enum_Testes\obj\Debug\Enum_Testes.pdb
